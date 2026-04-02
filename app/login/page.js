@@ -1,9 +1,9 @@
-
+import Login from "../components/auth/loginform"
 export default function Page(){
     
     return(
         <main>
-            <h1>Login</h1>
+            <Login />
         </main>
     )
 }
